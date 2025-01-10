@@ -1,0 +1,9 @@
+[requires]
+rabbitmq-c/0.14.0
+gtest/1.15.0
+
+[generators]
+CMakeDeps
+
+[options]
+rabbitmq-c:ssl=True
